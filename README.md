@@ -1,1 +1,1 @@
-# myxos
+# Android App for weather forecast
